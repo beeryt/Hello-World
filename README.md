@@ -1,5 +1,7 @@
 # Hello-World
 
+[![build](https://github.com/beeryt/Hello-World/workflows/build/badge.svg)](https://github.com/beeryt/Hello-World/actions)
+
 Hello-World is a GitHub project for trying out different features within the git and GitHub ecosystems.
 
 ## Installation
